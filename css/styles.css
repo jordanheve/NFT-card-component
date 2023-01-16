@@ -142,6 +142,6 @@ main {
 @media (max-height: 700px) {
     .attribution {
         position: unset;
-        margin-top: 2rem;
+        margin: 2rem 0;
     }
 }
